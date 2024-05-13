@@ -14,7 +14,7 @@ const ProfileForm = ({ user }: any) => {
   return (
     <form>
       <>
-        <div className="m-8 flex">
+        <div className="m-2 md:m-8 flex">
           <Card className="w-full bg-white">
             <div className="relative inline-flex flex-col mt-2 overflow-hidden border rounded border-border-100 ltr:mr-2 rtl:ml-2">
               <div className="flex items-center justify-center w-16 h-16 min-w-0 overflow-hidden">
